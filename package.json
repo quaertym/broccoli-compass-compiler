@@ -1,0 +1,15 @@
+{
+  "name": "broccoli-compass-compiler",
+  "version": "0.0.1",
+  "description": "Compass Compiler for broccoli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emre Unal",
+  "license": "MIT",
+  "dependencies": {
+    "broccoli-caching-writer": "^2.0.1",
+    "compass-compile": "0.0.1"
+  }
+}
