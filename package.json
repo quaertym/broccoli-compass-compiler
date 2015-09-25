@@ -6,10 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "compass",
+    "broccoli"
+  ],
   "author": "Emre Unal",
   "license": "MIT",
   "dependencies": {
     "broccoli-caching-writer": "^2.0.1",
     "compass-compile": "0.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:quaertym/broccoli-compass-compiler.git"
   }
 }
