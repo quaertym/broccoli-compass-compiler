@@ -14,13 +14,11 @@
   "license": "MIT",
   "dependencies": {
     "broccoli-caching-writer": "^2.0.1",
-    "compass-compile": "0.0.1"
+    "compass-compile": "0.0.1",
+    "merge": "^1.2.0"
   },
   "repository": {
     "type": "git",
     "url": "git@github.com:quaertym/broccoli-compass-compiler.git"
-  },
-  "devDependencies": {
-    "merge": "^1.2.0"
   }
 }
