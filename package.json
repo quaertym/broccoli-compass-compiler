@@ -19,5 +19,8 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:quaertym/broccoli-compass-compiler.git"
+  },
+  "devDependencies": {
+    "merge": "^1.2.0"
   }
 }
