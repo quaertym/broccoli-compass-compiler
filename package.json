@@ -15,7 +15,9 @@
   "dependencies": {
     "broccoli-caching-writer": "^2.0.1",
     "compass-compile": "0.0.1",
-    "merge": "^1.2.0"
+    "include-path-searcher": "^0.1.0",
+    "merge": "^1.2.0",
+    "mkdirp": "^0.5.1"
   },
   "repository": {
     "type": "git",

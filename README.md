@@ -12,7 +12,7 @@ npm install --save broccoli-compass-compiler
 
 ```javascript
 var compileCompass = require('broccoli-compass-compiler');
-var tree = compileCompass(['app/styles'], {
+var tree = compileCompass(['app/styles'], 'addon.scss', 'path/to/output.css' {
   outputStyle: 'compressed'
 });
 ```
