@@ -13,7 +13,7 @@
   "author": "Emre Unal",
   "license": "MIT",
   "dependencies": {
-    "broccoli-caching-writer": "^2.0.1",
+    "broccoli-caching-writer": "2.2.1",
     "compass-compile": "0.0.1",
     "merge": "^1.2.0"
   },
